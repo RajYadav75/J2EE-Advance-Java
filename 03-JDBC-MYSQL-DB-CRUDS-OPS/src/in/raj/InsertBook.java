@@ -8,7 +8,7 @@ public class InsertBook {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/advjdb";
     private static final String DB_Uname = "root";
     private static final String DB_PWD = "root";
-    private static final String INSERT_SQL = "INSERT INTO BOOKS VALUES(101,'Java',1000)";
+    private static final String INSERT_SQL = "INSERT INTO BOOKS VALUES(103,'AWS',5000)";
 
     public static void main(String[] args) throws Exception {
         // TODO -> 1. Load Driver
