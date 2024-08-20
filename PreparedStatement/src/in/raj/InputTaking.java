@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 
-public class PrapareStmt {
+public class InputTaking {
 
     private static final String DB_URL = "jdbc:mysql://localhost:3306/advjdb";
     private static final String DB_Uname = "root";
